@@ -1,0 +1,188 @@
+id,team_fifa_api_id,team_api_id,date,buildUpPlaySpeed,buildUpPlaySpeedClass,buildUpPlayDribbling,buildUpPlayDribblingClass,buildUpPlayPassing,buildUpPlayPassingClass,buildUpPlayPositioningClass,chanceCreationPassing,chanceCreationPassingClass,chanceCreationCrossing,chanceCreationCrossingClass,chanceCreationShooting,chanceCreationShootingClass,chanceCreationPositioningClass,defencePressure,defencePressureClass,defenceAggression,defenceAggressionClass,defenceTeamWidth,defenceTeamWidthClass,defenceDefenderLineClass
+40,1861,9865,2010-02-22 00:00:00,65,Balanced,,Little,45,Mixed,Organised,45,Normal,45,Normal,70,Lots,Organised,70,High,65,Press,30,Narrow,Cover
+41,1861,9865,2011-02-22 00:00:00,55,Balanced,,Little,53,Mixed,Organised,57,Normal,54,Normal,69,Lots,Organised,58,Medium,68,Double,67,Wide,Cover
+42,1861,9865,2012-02-22 00:00:00,42,Balanced,,Little,70,Long,Organised,57,Normal,54,Normal,40,Normal,Organised,37,Medium,53,Press,45,Normal,Cover
+43,1861,9865,2013-09-20 00:00:00,46,Balanced,,Little,65,Mixed,Organised,57,Normal,54,Normal,40,Normal,Organised,37,Medium,53,Press,45,Normal,Cover
+44,1861,9865,2014-09-19 00:00:00,46,Balanced,41.0,Normal,65,Mixed,Organised,57,Normal,54,Normal,40,Normal,Organised,37,Medium,53,Press,45,Normal,Cover
+45,1861,9865,2015-09-10 00:00:00,46,Balanced,41.0,Normal,65,Mixed,Organised,57,Normal,54,Normal,40,Normal,Organised,37,Medium,53,Press,45,Normal,Cover
+89,448,8315,2010-02-22 00:00:00,60,Balanced,,Little,45,Mixed,Organised,35,Normal,70,Lots,55,Normal,Organised,30,Deep,70,Double,35,Normal,Cover
+90,448,8315,2011-02-22 00:00:00,70,Fast,,Little,69,Long,Organised,55,Normal,72,Lots,57,Normal,Organised,48,Medium,67,Double,55,Normal,Cover
+91,448,8315,2012-02-22 00:00:00,42,Balanced,,Little,59,Mixed,Organised,36,Normal,78,Lots,59,Normal,Organised,37,Medium,60,Press,68,Wide,Cover
+92,448,8315,2013-09-20 00:00:00,46,Balanced,,Little,38,Mixed,Organised,52,Normal,73,Lots,37,Normal,Free Form,37,Medium,60,Press,68,Wide,Cover
+93,448,8315,2014-09-19 00:00:00,46,Balanced,41.0,Normal,38,Mixed,Organised,52,Normal,68,Lots,37,Normal,Organised,37,Medium,60,Press,65,Normal,Cover
+94,448,8315,2015-09-10 00:00:00,46,Balanced,46.0,Normal,39,Mixed,Organised,50,Normal,60,Normal,36,Normal,Free Form,49,Medium,57,Press,50,Normal,Cover
+95,240,9906,2010-02-22 00:00:00,64,Balanced,,Little,30,Short,Free Form,65,Normal,50,Normal,70,Lots,Free Form,70,High,34,Press,55,Normal,Offside Trap
+96,240,9906,2011-02-22 00:00:00,57,Balanced,,Little,54,Mixed,Organised,58,Normal,69,Lots,79,Lots,Organised,58,Medium,48,Press,54,Normal,Cover
+97,240,9906,2012-02-22 00:00:00,47,Balanced,,Little,51,Mixed,Organised,67,Risky,63,Normal,54,Normal,Organised,52,Medium,37,Press,55,Normal,Cover
+98,240,9906,2013-09-20 00:00:00,47,Balanced,,Little,51,Mixed,Organised,70,Risky,65,Normal,54,Normal,Organised,52,Medium,37,Press,55,Normal,Cover
+99,240,9906,2014-09-19 00:00:00,47,Balanced,52.0,Normal,51,Mixed,Organised,67,Risky,67,Lots,54,Normal,Organised,52,Medium,37,Press,55,Normal,Cover
+100,240,9906,2015-09-10 00:00:00,57,Balanced,50.0,Normal,50,Mixed,Organised,61,Normal,62,Normal,49,Normal,Organised,49,Medium,42,Press,52,Normal,Cover
+119,241,8634,2010-02-22 00:00:00,42,Balanced,,Little,30,Short,Free Form,65,Normal,40,Normal,70,Lots,Free Form,70,High,30,Contain,70,Wide,Offside Trap
+120,241,8634,2011-02-22 00:00:00,43,Balanced,,Little,34,Mixed,Free Form,59,Normal,25,Little,68,Lots,Free Form,67,High,43,Press,68,Wide,Cover
+121,241,8634,2012-02-22 00:00:00,24,Slow,,Little,25,Short,Free Form,37,Normal,24,Little,54,Normal,Free Form,66,Medium,63,Press,66,Normal,Cover
+122,241,8634,2013-09-20 00:00:00,35,Balanced,,Little,32,Short,Free Form,37,Normal,31,Little,35,Normal,Free Form,61,Medium,63,Press,65,Normal,Cover
+123,241,8634,2014-09-19 00:00:00,35,Balanced,35.0,Normal,32,Short,Free Form,37,Normal,31,Little,35,Normal,Free Form,61,Medium,63,Press,65,Normal,Cover
+124,241,8634,2015-09-10 00:00:00,36,Balanced,35.0,Normal,51,Mixed,Free Form,36,Normal,49,Normal,56,Normal,Free Form,61,Medium,65,Press,65,Normal,Cover
+283,450,9910,2010-02-22 00:00:00,35,Balanced,,Little,30,Short,Organised,45,Normal,45,Normal,70,Lots,Organised,35,Medium,30,Contain,50,Normal,Offside Trap
+284,450,9910,2011-02-22 00:00:00,43,Balanced,,Little,44,Mixed,Organised,53,Normal,45,Normal,60,Normal,Organised,40,Medium,41,Press,47,Normal,Cover
+285,450,9910,2012-02-22 00:00:00,53,Balanced,,Little,62,Mixed,Organised,59,Normal,68,Lots,52,Normal,Organised,42,Medium,52,Press,68,Wide,Cover
+286,450,9910,2013-09-20 00:00:00,53,Balanced,,Little,62,Mixed,Organised,59,Normal,68,Lots,52,Normal,Free Form,42,Medium,52,Press,68,Wide,Cover
+287,450,9910,2014-09-19 00:00:00,53,Balanced,54.0,Normal,62,Mixed,Organised,59,Normal,68,Lots,52,Normal,Organised,42,Medium,52,Press,65,Normal,Cover
+288,450,9910,2015-09-10 00:00:00,55,Balanced,59.0,Normal,38,Mixed,Organised,41,Normal,48,Normal,50,Normal,Free Form,55,Medium,55,Press,59,Normal,Cover
+325,1867,7869,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Organised,35,Normal,45,Normal,60,Normal,Organised,35,Medium,30,Contain,40,Normal,Cover
+326,1867,7869,2011-02-22 00:00:00,39,Balanced,,Little,41,Mixed,Organised,40,Normal,42,Normal,46,Normal,Organised,40,Medium,38,Press,44,Normal,Cover
+327,1867,7869,2012-02-22 00:00:00,40,Balanced,,Little,53,Mixed,Organised,40,Normal,71,Lots,48,Normal,Organised,36,Medium,41,Press,52,Normal,Cover
+328,1867,7869,2013-09-20 00:00:00,40,Balanced,,Little,53,Mixed,Organised,40,Normal,71,Lots,48,Normal,Organised,36,Medium,41,Press,52,Normal,Cover
+329,1867,7869,2014-09-19 00:00:00,40,Balanced,53.0,Normal,53,Mixed,Organised,40,Normal,66,Normal,48,Normal,Organised,36,Medium,41,Press,52,Normal,Cover
+330,1867,7869,2015-09-10 00:00:00,53,Balanced,40.0,Normal,48,Mixed,Organised,55,Normal,59,Normal,57,Normal,Organised,38,Medium,39,Press,52,Normal,Cover
+345,242,9783,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Organised,30,Safe,45,Normal,65,Normal,Organised,35,Medium,35,Press,45,Normal,Offside Trap
+346,242,9783,2011-02-22 00:00:00,56,Balanced,,Little,42,Mixed,Organised,57,Normal,69,Lots,61,Normal,Organised,38,Medium,44,Press,69,Wide,Cover
+347,242,9783,2012-02-22 00:00:00,56,Balanced,,Little,46,Mixed,Organised,38,Normal,52,Normal,68,Lots,Organised,45,Medium,50,Press,59,Normal,Cover
+348,242,9783,2013-09-20 00:00:00,56,Balanced,,Little,46,Mixed,Organised,38,Normal,52,Normal,68,Lots,Organised,45,Medium,50,Press,59,Normal,Cover
+349,242,9783,2014-09-19 00:00:00,56,Balanced,55.0,Normal,46,Mixed,Organised,38,Normal,52,Normal,68,Lots,Organised,45,Medium,50,Press,59,Normal,Cover
+350,242,9783,2015-09-10 00:00:00,53,Balanced,55.0,Normal,47,Mixed,Organised,38,Normal,52,Normal,55,Normal,Organised,45,Medium,50,Press,59,Normal,Offside Trap
+366,467,8372,2014-09-19 00:00:00,62,Balanced,51.0,Normal,52,Mixed,Organised,60,Normal,55,Normal,64,Normal,Organised,37,Medium,56,Press,49,Normal,Cover
+367,467,8372,2015-09-10 00:00:00,62,Balanced,51.0,Normal,52,Mixed,Organised,59,Normal,55,Normal,52,Normal,Organised,37,Medium,56,Press,49,Normal,Cover
+378,468,10268,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Organised,45,Normal,50,Normal,70,Lots,Organised,50,Medium,45,Press,45,Normal,Cover
+379,468,10268,2011-02-22 00:00:00,43,Balanced,,Little,39,Mixed,Organised,52,Normal,43,Normal,46,Normal,Organised,40,Medium,39,Press,51,Normal,Cover
+380,468,10268,2012-02-22 00:00:00,55,Balanced,,Little,73,Long,Organised,53,Normal,54,Normal,57,Normal,Organised,49,Medium,51,Press,58,Normal,Cover
+381,468,10268,2013-09-20 00:00:00,55,Balanced,,Little,73,Long,Organised,53,Normal,54,Normal,57,Normal,Organised,49,Medium,51,Press,58,Normal,Cover
+382,468,10268,2014-09-19 00:00:00,55,Balanced,47.0,Normal,69,Long,Organised,53,Normal,54,Normal,57,Normal,Organised,49,Medium,51,Press,58,Normal,Cover
+383,468,10268,2015-09-10 00:00:00,51,Balanced,52.0,Normal,48,Mixed,Organised,53,Normal,54,Normal,57,Normal,Organised,49,Medium,51,Press,58,Normal,Cover
+395,452,8558,2010-02-22 00:00:00,55,Balanced,,Little,40,Mixed,Organised,70,Risky,55,Normal,70,Lots,Organised,70,High,50,Press,60,Normal,Cover
+396,452,8558,2011-02-22 00:00:00,68,Fast,,Little,55,Mixed,Organised,72,Risky,70,Lots,54,Normal,Organised,51,Medium,58,Press,56,Normal,Cover
+397,452,8558,2012-02-22 00:00:00,46,Balanced,,Little,44,Mixed,Organised,52,Normal,60,Normal,40,Normal,Organised,37,Medium,40,Press,45,Normal,Cover
+398,452,8558,2013-09-20 00:00:00,50,Balanced,,Little,44,Mixed,Organised,52,Normal,60,Normal,40,Normal,Free Form,37,Medium,40,Press,45,Normal,Cover
+399,452,8558,2014-09-19 00:00:00,50,Balanced,52.0,Normal,44,Mixed,Organised,52,Normal,60,Normal,40,Normal,Organised,37,Medium,40,Press,45,Normal,Cover
+400,452,8558,2015-09-10 00:00:00,50,Balanced,52.0,Normal,44,Mixed,Organised,52,Normal,60,Normal,40,Normal,Free Form,37,Medium,40,Press,45,Normal,Cover
+503,1860,8305,2010-02-22 00:00:00,30,Slow,,Little,35,Mixed,Organised,35,Normal,50,Normal,70,Lots,Free Form,40,Medium,30,Contain,50,Normal,Offside Trap
+504,1860,8305,2011-02-22 00:00:00,54,Balanced,,Little,45,Mixed,Organised,38,Normal,54,Normal,57,Normal,Organised,59,Medium,39,Press,66,Normal,Cover
+505,1860,8305,2012-02-22 00:00:00,25,Slow,,Little,40,Mixed,Organised,58,Normal,42,Normal,52,Normal,Organised,49,Medium,45,Press,47,Normal,Cover
+506,1860,8305,2013-09-20 00:00:00,29,Slow,,Little,40,Mixed,Organised,58,Normal,42,Normal,52,Normal,Organised,49,Medium,45,Press,47,Normal,Cover
+507,1860,8305,2014-09-19 00:00:00,35,Balanced,42.0,Normal,40,Mixed,Organised,58,Normal,42,Normal,52,Normal,Organised,49,Medium,45,Press,47,Normal,Cover
+508,1860,8305,2015-09-10 00:00:00,34,Balanced,41.0,Normal,38,Mixed,Organised,55,Normal,39,Normal,49,Normal,Organised,43,Medium,42,Press,49,Normal,Cover
+525,110832,7878,2011-02-22 00:00:00,53,Balanced,,Little,52,Mixed,Organised,54,Normal,59,Normal,55,Normal,Organised,54,Medium,49,Press,67,Wide,Cover
+526,110832,7878,2012-02-22 00:00:00,48,Balanced,,Little,37,Mixed,Organised,72,Risky,76,Lots,52,Normal,Organised,49,Medium,45,Press,68,Wide,Cover
+527,110832,7878,2013-09-20 00:00:00,52,Balanced,,Little,37,Mixed,Organised,72,Risky,76,Lots,52,Normal,Organised,49,Medium,45,Press,68,Wide,Cover
+528,110832,7878,2014-09-19 00:00:00,52,Balanced,62.0,Normal,37,Mixed,Organised,67,Risky,68,Lots,52,Normal,Organised,49,Medium,45,Press,64,Normal,Cover
+529,110832,7878,2015-09-10 00:00:00,57,Balanced,50.0,Normal,59,Mixed,Organised,61,Normal,63,Normal,51,Normal,Organised,48,Medium,45,Press,62,Normal,Cover
+575,100879,10278,2010-02-22 00:00:00,40,Balanced,,Little,30,Short,Organised,50,Normal,35,Normal,70,Lots,Organised,35,Medium,35,Press,50,Normal,Cover
+576,100879,10278,2011-02-22 00:00:00,54,Balanced,,Little,55,Mixed,Organised,53,Normal,40,Normal,59,Normal,Organised,48,Medium,58,Press,53,Normal,Cover
+577,100879,10278,2012-02-22 00:00:00,53,Balanced,,Little,54,Mixed,Organised,60,Normal,58,Normal,60,Normal,Organised,50,Medium,52,Press,58,Normal,Cover
+578,100879,10278,2013-09-20 00:00:00,53,Balanced,,Little,54,Mixed,Organised,60,Normal,58,Normal,60,Normal,Organised,50,Medium,52,Press,58,Normal,Cover
+579,100879,10278,2014-09-19 00:00:00,53,Balanced,47.0,Normal,54,Mixed,Organised,60,Normal,58,Normal,60,Normal,Organised,50,Medium,52,Press,58,Normal,Cover
+666,472,8306,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Organised,45,Normal,40,Normal,70,Lots,Organised,35,Medium,45,Press,45,Normal,Offside Trap
+667,472,8306,2011-02-22 00:00:00,54,Balanced,,Little,56,Mixed,Organised,67,Risky,61,Normal,59,Normal,Organised,48,Medium,56,Press,67,Wide,Cover
+668,472,8306,2012-02-22 00:00:00,48,Balanced,,Little,44,Mixed,Organised,53,Normal,42,Normal,53,Normal,Organised,53,Medium,39,Press,57,Normal,Cover
+669,472,8306,2013-09-20 00:00:00,48,Balanced,,Little,44,Mixed,Organised,53,Normal,42,Normal,53,Normal,Organised,53,Medium,39,Press,57,Normal,Cover
+670,472,8306,2014-09-19 00:00:00,48,Balanced,55.0,Normal,44,Mixed,Organised,53,Normal,42,Normal,53,Normal,Organised,53,Medium,39,Press,57,Normal,Cover
+671,472,8306,2015-09-10 00:00:00,48,Balanced,55.0,Normal,44,Mixed,Organised,53,Normal,42,Normal,53,Normal,Organised,53,Medium,39,Press,57,Normal,Cover
+726,1853,8581,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Organised,45,Normal,40,Normal,70,Lots,Organised,30,Deep,35,Press,50,Normal,Cover
+727,1853,8581,2011-02-22 00:00:00,68,Fast,,Little,56,Mixed,Organised,69,Risky,55,Normal,58,Normal,Organised,37,Medium,47,Press,54,Normal,Cover
+728,1853,8581,2012-02-22 00:00:00,53,Balanced,,Little,63,Mixed,Organised,55,Normal,61,Normal,52,Normal,Organised,47,Medium,52,Press,56,Normal,Cover
+729,1853,8581,2013-09-20 00:00:00,57,Balanced,,Little,63,Mixed,Organised,55,Normal,61,Normal,52,Normal,Organised,47,Medium,52,Press,56,Normal,Cover
+730,1853,8581,2014-09-19 00:00:00,57,Balanced,51.0,Normal,63,Mixed,Organised,55,Normal,61,Normal,52,Normal,Organised,47,Medium,52,Press,56,Normal,Cover
+731,1853,8581,2015-09-10 00:00:00,62,Balanced,36.0,Normal,65,Mixed,Organised,71,Risky,42,Normal,65,Normal,Organised,36,Medium,33,Contain,42,Normal,Cover
+789,573,9864,2010-02-22 00:00:00,60,Balanced,,Little,55,Mixed,Organised,40,Normal,45,Normal,70,Lots,Organised,45,Medium,65,Press,45,Normal,Cover
+790,573,9864,2011-02-22 00:00:00,58,Balanced,,Little,54,Mixed,Organised,54,Normal,55,Normal,61,Normal,Organised,45,Medium,47,Press,54,Normal,Cover
+791,573,9864,2012-02-22 00:00:00,41,Balanced,,Little,36,Mixed,Organised,72,Risky,69,Lots,50,Normal,Organised,64,Medium,58,Press,42,Normal,Cover
+792,573,9864,2013-09-20 00:00:00,45,Balanced,,Little,36,Mixed,Organised,72,Risky,69,Lots,50,Normal,Organised,64,Medium,58,Press,42,Normal,Cover
+793,573,9864,2014-09-19 00:00:00,45,Balanced,42.0,Normal,36,Mixed,Organised,69,Risky,69,Lots,50,Normal,Organised,64,Medium,58,Press,42,Normal,Cover
+794,573,9864,2015-09-10 00:00:00,42,Balanced,51.0,Normal,36,Mixed,Organised,41,Normal,40,Normal,50,Normal,Organised,47,Medium,37,Press,52,Normal,Offside Trap
+795,453,8661,2010-02-22 00:00:00,40,Balanced,,Little,40,Mixed,Organised,50,Normal,40,Normal,50,Normal,Free Form,45,Medium,40,Press,45,Normal,Offside Trap
+796,453,8661,2011-02-22 00:00:00,53,Balanced,,Little,52,Mixed,Organised,55,Normal,52,Normal,53,Normal,Free Form,47,Medium,48,Press,55,Normal,Cover
+797,453,8661,2012-02-22 00:00:00,58,Balanced,,Little,57,Mixed,Organised,53,Normal,57,Normal,53,Normal,Organised,59,Medium,41,Press,56,Normal,Cover
+798,453,8661,2013-09-20 00:00:00,62,Balanced,,Little,57,Mixed,Organised,53,Normal,57,Normal,53,Normal,Organised,59,Medium,41,Press,56,Normal,Cover
+799,453,8661,2014-09-19 00:00:00,62,Balanced,53.0,Normal,57,Mixed,Organised,53,Normal,57,Normal,53,Normal,Organised,59,Medium,41,Press,56,Normal,Cover
+800,453,8661,2015-09-10 00:00:00,62,Balanced,53.0,Normal,57,Mixed,Organised,53,Normal,57,Normal,53,Normal,Organised,59,Medium,41,Press,56,Normal,Cover
+921,477,8388,2010-02-22 00:00:00,55,Balanced,,Little,40,Mixed,Organised,50,Normal,55,Normal,55,Normal,Organised,30,Deep,55,Press,55,Normal,Offside Trap
+922,477,8388,2011-02-22 00:00:00,71,Fast,,Little,53,Mixed,Organised,38,Normal,53,Normal,53,Normal,Organised,40,Medium,49,Press,55,Normal,Cover
+923,477,8388,2012-02-22 00:00:00,44,Balanced,,Little,45,Mixed,Organised,54,Normal,41,Normal,57,Normal,Organised,50,Medium,46,Press,62,Normal,Cover
+924,477,8388,2013-09-20 00:00:00,44,Balanced,,Little,45,Mixed,Organised,54,Normal,41,Normal,57,Normal,Organised,50,Medium,46,Press,62,Normal,Cover
+925,477,8388,2014-09-19 00:00:00,44,Balanced,48.0,Normal,45,Mixed,Organised,54,Normal,41,Normal,57,Normal,Organised,50,Medium,46,Press,62,Normal,Cover
+926,477,8388,2015-09-10 00:00:00,44,Balanced,48.0,Normal,45,Mixed,Organised,54,Normal,41,Normal,57,Normal,Organised,50,Medium,46,Press,62,Normal,Cover
+935,479,8371,2010-02-22 00:00:00,35,Balanced,,Little,35,Mixed,Organised,45,Normal,65,Normal,55,Normal,Free Form,30,Deep,65,Press,55,Normal,Cover
+936,479,8371,2011-02-22 00:00:00,55,Balanced,,Little,54,Mixed,Organised,56,Normal,69,Lots,68,Lots,Free Form,48,Medium,61,Press,68,Wide,Cover
+937,479,8371,2012-02-22 00:00:00,34,Balanced,,Little,52,Mixed,Organised,55,Normal,59,Normal,54,Normal,Organised,47,Medium,52,Press,69,Wide,Cover
+938,479,8371,2013-09-20 00:00:00,38,Balanced,,Little,52,Mixed,Organised,55,Normal,59,Normal,54,Normal,Organised,47,Medium,52,Press,69,Wide,Cover
+939,479,8371,2014-09-19 00:00:00,38,Balanced,53.0,Normal,52,Mixed,Organised,55,Normal,59,Normal,54,Normal,Organised,47,Medium,52,Press,65,Normal,Cover
+940,479,8371,2015-09-10 00:00:00,38,Balanced,53.0,Normal,52,Mixed,Organised,55,Normal,59,Normal,54,Normal,Organised,47,Medium,52,Press,69,Wide,Cover
+1020,456,8696,2010-02-22 00:00:00,45,Balanced,,Little,55,Mixed,Organised,70,Risky,70,Lots,65,Normal,Free Form,45,Medium,55,Press,50,Normal,Cover
+1021,456,8696,2011-02-22 00:00:00,53,Balanced,,Little,56,Mixed,Organised,73,Risky,72,Lots,39,Normal,Organised,47,Medium,37,Press,53,Normal,Cover
+1022,456,8696,2012-02-22 00:00:00,43,Balanced,,Little,44,Mixed,Organised,61,Normal,71,Lots,50,Normal,Organised,50,Medium,50,Press,68,Wide,Cover
+1023,456,8696,2013-09-20 00:00:00,47,Balanced,,Little,44,Mixed,Organised,61,Normal,71,Lots,50,Normal,Organised,50,Medium,50,Press,68,Wide,Cover
+1024,456,8696,2015-09-10 00:00:00,48,Balanced,52.0,Normal,47,Mixed,Organised,53,Normal,53,Normal,53,Normal,Organised,51,Medium,47,Press,53,Normal,Cover
+1031,480,8370,2010-02-22 00:00:00,40,Balanced,,Little,30,Short,Organised,35,Normal,50,Normal,70,Lots,Organised,30,Deep,50,Press,40,Normal,Offside Trap
+1032,480,8370,2011-02-22 00:00:00,53,Balanced,,Little,55,Mixed,Organised,44,Normal,56,Normal,61,Normal,Organised,58,Medium,52,Press,68,Wide,Cover
+1033,480,8370,2012-02-22 00:00:00,41,Balanced,,Little,44,Mixed,Organised,44,Normal,44,Normal,47,Normal,Organised,63,Medium,51,Press,59,Normal,Cover
+1034,480,8370,2013-09-20 00:00:00,45,Balanced,,Little,44,Mixed,Free Form,44,Normal,44,Normal,47,Normal,Organised,63,Medium,51,Press,59,Normal,Cover
+1035,480,8370,2014-09-19 00:00:00,45,Balanced,52.0,Normal,44,Mixed,Organised,44,Normal,44,Normal,47,Normal,Organised,63,Medium,51,Press,59,Normal,Cover
+1036,480,8370,2015-09-10 00:00:00,29,Slow,52.0,Normal,44,Mixed,Organised,44,Normal,44,Normal,47,Normal,Organised,54,Medium,52,Press,63,Normal,Cover
+1043,449,8603,2010-02-22 00:00:00,45,Balanced,,Little,45,Mixed,Organised,30,Safe,50,Normal,55,Normal,Free Form,50,Medium,45,Press,55,Normal,Offside Trap
+1044,449,8603,2011-02-22 00:00:00,37,Balanced,,Little,51,Mixed,Organised,68,Risky,66,Normal,72,Lots,Free Form,42,Medium,40,Press,53,Normal,Cover
+1045,449,8603,2012-02-22 00:00:00,55,Balanced,,Little,37,Mixed,Organised,59,Normal,43,Normal,53,Normal,Organised,58,Medium,49,Press,58,Normal,Cover
+1046,449,8603,2013-09-20 00:00:00,59,Balanced,,Little,37,Mixed,Organised,59,Normal,43,Normal,53,Normal,Organised,58,Medium,49,Press,58,Normal,Cover
+1047,449,8603,2014-09-19 00:00:00,59,Balanced,49.0,Normal,37,Mixed,Organised,59,Normal,43,Normal,53,Normal,Organised,58,Medium,49,Press,58,Normal,Cover
+1048,449,8603,2015-09-10 00:00:00,59,Balanced,49.0,Normal,37,Mixed,Organised,59,Normal,43,Normal,53,Normal,Organised,58,Medium,49,Press,58,Normal,Cover
+1049,243,8633,2010-02-22 00:00:00,55,Balanced,,Little,30,Short,Free Form,70,Risky,60,Normal,70,Lots,Free Form,65,Medium,40,Press,65,Normal,Offside Trap
+1050,243,8633,2011-02-22 00:00:00,54,Balanced,,Little,39,Mixed,Free Form,67,Risky,60,Normal,67,Lots,Free Form,68,High,55,Press,55,Normal,Cover
+1051,243,8633,2012-02-22 00:00:00,45,Balanced,,Little,35,Mixed,Free Form,71,Risky,54,Normal,73,Lots,Free Form,49,Medium,60,Press,68,Wide,Cover
+1052,243,8633,2013-09-20 00:00:00,50,Balanced,,Little,41,Mixed,Organised,68,Risky,54,Normal,72,Lots,Free Form,39,Medium,49,Press,65,Normal,Cover
+1053,243,8633,2014-09-19 00:00:00,50,Balanced,54.0,Normal,41,Mixed,Organised,68,Risky,54,Normal,69,Lots,Free Form,39,Medium,49,Press,65,Normal,Cover
+1054,243,8633,2015-09-10 00:00:00,50,Balanced,57.0,Normal,46,Mixed,Free Form,61,Normal,41,Normal,63,Normal,Free Form,52,Medium,60,Press,63,Normal,Cover
+1055,457,8560,2010-02-22 00:00:00,40,Balanced,,Little,30,Short,Free Form,50,Normal,40,Normal,70,Lots,Organised,45,Medium,30,Contain,35,Normal,Offside Trap
+1056,457,8560,2011-02-22 00:00:00,54,Balanced,,Little,43,Mixed,Organised,54,Normal,51,Normal,60,Normal,Organised,49,Medium,49,Press,51,Normal,Cover
+1057,457,8560,2012-02-22 00:00:00,24,Slow,,Little,36,Mixed,Organised,60,Normal,52,Normal,59,Normal,Organised,48,Medium,53,Press,70,Wide,Cover
+1058,457,8560,2013-09-20 00:00:00,28,Slow,,Little,36,Mixed,Organised,60,Normal,52,Normal,59,Normal,Organised,48,Medium,53,Press,70,Wide,Cover
+1059,457,8560,2014-09-19 00:00:00,35,Balanced,52.0,Normal,36,Mixed,Organised,60,Normal,52,Normal,59,Normal,Organised,48,Medium,53,Press,65,Normal,Cover
+1060,457,8560,2015-09-10 00:00:00,60,Balanced,52.0,Normal,50,Mixed,Organised,54,Normal,60,Normal,52,Normal,Organised,49,Medium,53,Press,53,Normal,Cover
+1061,571,8479,2010-02-22 00:00:00,50,Balanced,,Little,40,Mixed,Organised,40,Normal,40,Normal,50,Normal,Organised,35,Medium,55,Press,40,Normal,Cover
+1062,571,8479,2011-02-22 00:00:00,45,Balanced,,Little,58,Mixed,Organised,41,Normal,42,Normal,52,Normal,Organised,39,Medium,39,Press,66,Normal,Cover
+1063,571,8479,2012-02-22 00:00:00,41,Balanced,,Little,54,Mixed,Organised,67,Risky,50,Normal,23,Little,Organised,40,Medium,49,Press,62,Normal,Cover
+1064,571,8479,2013-09-20 00:00:00,41,Balanced,,Little,54,Mixed,Organised,45,Normal,50,Normal,23,Little,Organised,40,Medium,49,Press,62,Normal,Cover
+1065,571,8479,2014-09-19 00:00:00,41,Balanced,53.0,Normal,54,Mixed,Organised,45,Normal,50,Normal,35,Normal,Organised,40,Medium,49,Press,62,Normal,Cover
+1066,571,8479,2015-09-10 00:00:00,37,Balanced,38.0,Normal,43,Mixed,Organised,30,Safe,42,Normal,37,Normal,Organised,40,Medium,49,Press,54,Normal,Cover
+1157,481,8302,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Free Form,70,Risky,60,Normal,70,Lots,Free Form,60,Medium,70,Double,65,Normal,Offside Trap
+1158,481,8302,2011-02-22 00:00:00,68,Fast,,Little,58,Mixed,Free Form,68,Risky,67,Lots,71,Lots,Free Form,57,Medium,58,Press,68,Wide,Cover
+1159,481,8302,2012-02-22 00:00:00,61,Balanced,,Little,65,Mixed,Organised,53,Normal,57,Normal,38,Normal,Organised,38,Medium,49,Press,55,Normal,Cover
+1160,481,8302,2013-09-20 00:00:00,65,Balanced,,Little,65,Mixed,Organised,53,Normal,57,Normal,38,Normal,Organised,38,Medium,49,Press,55,Normal,Cover
+1161,481,8302,2014-09-19 00:00:00,65,Balanced,53.0,Normal,65,Mixed,Organised,53,Normal,57,Normal,38,Normal,Organised,38,Medium,49,Press,55,Normal,Cover
+1162,481,8302,2015-09-10 00:00:00,53,Balanced,53.0,Normal,53,Mixed,Organised,53,Normal,52,Normal,60,Normal,Organised,42,Medium,48,Press,59,Normal,Cover
+1199,459,9869,2010-02-22 00:00:00,70,Fast,,Little,55,Mixed,Organised,65,Normal,50,Normal,70,Lots,Organised,70,High,70,Double,55,Normal,Cover
+1200,459,9869,2011-02-22 00:00:00,68,Fast,,Little,53,Mixed,Organised,67,Risky,51,Normal,65,Normal,Organised,58,Medium,51,Press,55,Normal,Cover
+1201,459,9869,2012-02-22 00:00:00,51,Balanced,,Little,43,Mixed,Organised,68,Risky,61,Normal,44,Normal,Organised,36,Medium,60,Press,39,Normal,Cover
+1202,459,9869,2013-09-20 00:00:00,55,Balanced,,Little,43,Mixed,Organised,68,Risky,61,Normal,44,Normal,Organised,36,Medium,60,Press,39,Normal,Cover
+1203,459,9869,2014-09-19 00:00:00,55,Balanced,48.0,Normal,43,Mixed,Organised,68,Risky,61,Normal,44,Normal,Organised,36,Medium,60,Press,39,Normal,Cover
+1204,459,9869,2015-09-10 00:00:00,55,Balanced,48.0,Normal,50,Mixed,Organised,62,Normal,59,Normal,38,Normal,Organised,45,Medium,54,Press,41,Normal,Cover
+1261,260,9867,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Organised,45,Normal,30,Little,65,Normal,Organised,50,Medium,30,Contain,45,Normal,Cover
+1262,260,9867,2011-02-22 00:00:00,56,Balanced,,Little,51,Mixed,Organised,68,Risky,52,Normal,60,Normal,Organised,57,Medium,50,Press,67,Wide,Cover
+1263,260,9867,2014-09-19 00:00:00,56,Balanced,50.0,Normal,57,Mixed,Organised,56,Normal,51,Normal,54,Normal,Organised,52,Medium,50,Press,65,Normal,Cover
+1264,260,9867,2015-09-10 00:00:00,56,Balanced,50.0,Normal,57,Mixed,Organised,56,Normal,51,Normal,54,Normal,Organised,52,Medium,50,Press,69,Wide,Cover
+1308,461,10267,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Free Form,55,Normal,60,Normal,70,Lots,Organised,55,Medium,60,Press,60,Normal,Offside Trap
+1309,461,10267,2011-02-22 00:00:00,41,Balanced,,Little,40,Mixed,Organised,56,Normal,55,Normal,64,Normal,Free Form,40,Medium,48,Press,54,Normal,Cover
+1310,461,10267,2012-02-22 00:00:00,20,Slow,,Little,35,Mixed,Organised,38,Normal,56,Normal,55,Normal,Organised,51,Medium,38,Press,59,Normal,Cover
+1311,461,10267,2013-09-20 00:00:00,20,Slow,,Little,35,Mixed,Organised,38,Normal,56,Normal,55,Normal,Organised,51,Medium,38,Press,59,Normal,Cover
+1312,461,10267,2014-09-19 00:00:00,30,Slow,45.0,Normal,35,Mixed,Organised,38,Normal,56,Normal,55,Normal,Organised,51,Medium,38,Press,59,Normal,Cover
+1313,461,10267,2015-09-10 00:00:00,35,Balanced,46.0,Normal,35,Mixed,Organised,37,Normal,51,Normal,58,Normal,Organised,49,Medium,45,Press,53,Normal,Cover
+1320,462,10281,2010-02-22 00:00:00,55,Balanced,,Little,40,Mixed,Organised,45,Normal,30,Little,60,Normal,Organised,30,Deep,65,Press,30,Narrow,Cover
+1321,462,10281,2011-02-22 00:00:00,54,Balanced,,Little,55,Mixed,Organised,44,Normal,60,Normal,62,Normal,Organised,43,Medium,52,Press,59,Normal,Cover
+1322,462,10281,2012-02-22 00:00:00,55,Balanced,,Little,54,Mixed,Organised,58,Normal,73,Lots,41,Normal,Organised,51,Medium,50,Press,60,Normal,Cover
+1323,462,10281,2013-09-20 00:00:00,55,Balanced,,Little,54,Mixed,Organised,58,Normal,73,Lots,41,Normal,Organised,51,Medium,50,Press,60,Normal,Cover
+1324,462,10281,2014-09-19 00:00:00,55,Balanced,44.0,Normal,54,Mixed,Organised,58,Normal,68,Lots,41,Normal,Organised,51,Medium,50,Press,60,Normal,Cover
+1325,462,10281,2015-09-10 00:00:00,43,Balanced,40.0,Normal,65,Mixed,Organised,39,Normal,51,Normal,57,Normal,Organised,47,Medium,40,Press,47,Normal,Cover
+1336,483,10205,2010-02-22 00:00:00,64,Balanced,,Little,30,Short,Free Form,55,Normal,35,Normal,70,Lots,Free Form,65,Medium,30,Contain,70,Wide,Offside Trap
+1337,483,10205,2011-02-22 00:00:00,42,Balanced,,Little,41,Mixed,Free Form,53,Normal,38,Normal,70,Lots,Free Form,50,Medium,48,Press,54,Normal,Cover
+1338,483,10205,2012-02-22 00:00:00,20,Slow,,Little,26,Short,Organised,43,Normal,57,Normal,58,Normal,Organised,51,Medium,51,Press,56,Normal,Cover
+1339,483,10205,2013-09-20 00:00:00,24,Slow,,Little,26,Short,Organised,43,Normal,57,Normal,58,Normal,Organised,51,Medium,51,Press,56,Normal,Cover
+1340,483,10205,2014-09-19 00:00:00,35,Balanced,42.0,Normal,35,Mixed,Organised,43,Normal,57,Normal,58,Normal,Organised,51,Medium,51,Press,56,Normal,Cover
+1341,483,10205,2015-09-10 00:00:00,48,Balanced,42.0,Normal,36,Mixed,Free Form,36,Normal,52,Normal,55,Normal,Free Form,47,Medium,48,Press,44,Normal,Cover
+1430,1742,9868,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Organised,45,Normal,35,Normal,70,Lots,Organised,45,Medium,50,Press,45,Normal,Cover
+1431,1742,9868,2011-02-22 00:00:00,40,Balanced,,Little,58,Mixed,Organised,56,Normal,54,Normal,49,Normal,Organised,46,Medium,52,Press,67,Wide,Cover
+1432,1742,9868,2012-02-22 00:00:00,60,Balanced,,Little,44,Mixed,Organised,40,Normal,57,Normal,41,Normal,Organised,49,Medium,54,Press,50,Normal,Cover
+1433,1742,9868,2013-09-20 00:00:00,60,Balanced,,Little,44,Mixed,Organised,40,Normal,57,Normal,41,Normal,Organised,49,Medium,54,Press,50,Normal,Cover
+1445,244,8394,2010-02-22 00:00:00,30,Slow,,Little,30,Short,Free Form,50,Normal,35,Normal,70,Lots,Organised,40,Medium,30,Contain,45,Normal,Offside Trap
+1446,244,8394,2011-02-22 00:00:00,43,Balanced,,Little,40,Mixed,Organised,46,Normal,38,Normal,42,Normal,Organised,38,Medium,40,Press,53,Normal,Cover
+1447,244,8394,2012-02-22 00:00:00,34,Balanced,,Little,23,Short,Organised,53,Normal,56,Normal,57,Normal,Organised,51,Medium,46,Press,61,Normal,Cover
+1448,244,8394,2013-09-20 00:00:00,38,Balanced,,Little,23,Short,Organised,53,Normal,56,Normal,57,Normal,Organised,51,Medium,46,Press,61,Normal,Cover
+1449,244,8394,2014-09-19 00:00:00,38,Balanced,48.0,Normal,35,Mixed,Organised,53,Normal,56,Normal,57,Normal,Organised,51,Medium,46,Press,61,Normal,Cover
+1450,244,8394,2015-09-10 00:00:00,52,Balanced,52.0,Normal,50,Mixed,Organised,52,Normal,56,Normal,57,Normal,Organised,48,Medium,43,Press,49,Normal,Cover
