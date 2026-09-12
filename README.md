@@ -114,4 +114,4 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter
 Two-person project.
 
 - Daniel Alonso Roquet
-- *(collaborator)*
+- Marc Mogollón Vives
